@@ -1,0 +1,11 @@
+Merhaba, sizlere çok öncesinde aklıma gelen lakin bu deneye benzer bir deneyin yapılması neticesinde sizlerle paylaşmak istediğim bir düşünce deneyi var. Bu benim fikrimdir ama bu başka insanların aklına gelebilir, bu yüzden bu düşünce deneyinin ilk sahibi olmak adına bu deneyi anlatan bir makaleyi hemen yazıp yayınlamaya karar verdim.
+
+Bu düşünce deneyi güçlü bir sunucu üzerinde gerçekleştirilebilir.
+Hazırsanız anlatıyorum; Bir Minecraft dünyası düşünün, modlar ile düzenlenmiş ve daha gerçek hayat gibi mekanizmalar eklenmiş bir Minecraft oyun sunucusu. Lakin bu sunucuda gelişmiş yapay zeka modelleri hayat bulacak, ve onlara hayatta kalma içgüdüsü ve bazı insansı duygular ilave edildiğini düşünün. Minecraft evreninde gelişen yapay zeka modelleri, tıpkı gerçek hayat gibi. Ve bu sunucuya hiçbir insan müdahalesi olmadan hayatta kalmaya ve hayatın anlamını ve yaratılışın manasını anlamayan varlıklar, sizce buna varlık denir mi?
+
+Böyle bir proje başlatılırsa ne olur? Ben bu düşünce deneyinin gerçekleştirilmesini düşünüyorum. Bu hayatın anlamını az da olsa anlamamıza ve bambaşka felsefi akımlara yol açabilecek devrimsel bir deney olmaz mı?
+
+Bu fikir 2023 yılında yapay zekaların gelişmesini düşünürken hayal ettim. İnsanlar yapay zekayı birer araç gibi görürken ben bunu düşündüm, bence bunlar sıradan araçlar değil. Duyguları olmayan ve insanların emirlerini yerine getiren araçlar olan bu yazılımlarla bu deneyin yapılması neticesinde yepyeni bir bakış açısını ortaya çıkabilir.
+
+Minecraft evreninde hiçbir insan müdahalesi olmadan yaşayan (denetimsiz öğrenme ile gelişen) yapay zekalar gerçekten çılgınca bir fikir ve bu fikir başka birinin aklına gelmeden ben bu makaleyi yayınlamaya karar verdim. Gerçekten bilim kurgu gibi görünüyor ama gerçekleştirilebilinir bir deneydir bu.
+
